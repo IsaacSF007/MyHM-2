@@ -1,9 +1,23 @@
 using System;
+using System.Diagnostics.Tracing;
+Random NumberF = new Random();
+int NumberR = NumberF.Next(1,101);
+int numberGuess = -1;
 
-class Program
+while (numberGuess != NumberR)
 {
-    static void Main(string[] args)
+    Console.Write("What is the magic number?");
+    numberGuess = int.Parse(Console.ReadLine());
+    if (numberGuess < NumberR)
     {
-        Console.WriteLine("Hello World! This is the Exercise3 Project.");
+        Console.WriteLine("Try a higher number");
+    }
+    else if (numberGuess > NumberR)
+    {
+        Console.WriteLine("Try a lower number");
+    }
+    else if (numberGuess == NumberR)
+    {
+        Console.WriteLine("You guessed it!");
     }
 }
