@@ -1,6 +1,6 @@
 using System;
 
-public class Job//CLASS
+public class  Job//CLASS
 {
     //ATTRIBUTES
     public string Job_Title;
