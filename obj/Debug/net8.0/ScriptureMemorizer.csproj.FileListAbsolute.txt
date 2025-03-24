@@ -1,0 +1,15 @@
+C:\Users\Danelys\Desktop\c# HM\MyHM-2-main\MyHM-2-main\week03\ScriptureMemorizer\obj\Debug\net8.0\ScriptureMemorizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danelys\Desktop\c# HM\MyHM-2-main\MyHM-2-main\week03\ScriptureMemorizer\obj\Debug\net8.0\ScriptureMemorizer.AssemblyInfoInputs.cache
+C:\Users\Danelys\Desktop\c# HM\MyHM-2-main\MyHM-2-main\week03\ScriptureMemorizer\obj\Debug\net8.0\ScriptureMemorizer.AssemblyInfo.cs
+C:\Users\Danelys\Desktop\c# HM\MyHM-2-main\MyHM-2-main\week03\ScriptureMemorizer\obj\Debug\net8.0\ScriptureMemorizer.csproj.CoreCompileInputs.cache
+C:\Users\Danelys\Desktop\c# HM\MyHM-2-main\MyHM-2-main\week03\ScriptureMemorizer\obj\Debug\net8.0\ScriptureMemorizer.sourcelink.json
+C:\Users\Danelys\Desktop\c# HM\MyHM-2-main\MyHM-2-main\week03\ScriptureMemorizer\bin\Debug\net8.0\ScriptureMemorizer.exe
+C:\Users\Danelys\Desktop\c# HM\MyHM-2-main\MyHM-2-main\week03\ScriptureMemorizer\bin\Debug\net8.0\ScriptureMemorizer.deps.json
+C:\Users\Danelys\Desktop\c# HM\MyHM-2-main\MyHM-2-main\week03\ScriptureMemorizer\bin\Debug\net8.0\ScriptureMemorizer.runtimeconfig.json
+C:\Users\Danelys\Desktop\c# HM\MyHM-2-main\MyHM-2-main\week03\ScriptureMemorizer\bin\Debug\net8.0\ScriptureMemorizer.dll
+C:\Users\Danelys\Desktop\c# HM\MyHM-2-main\MyHM-2-main\week03\ScriptureMemorizer\bin\Debug\net8.0\ScriptureMemorizer.pdb
+C:\Users\Danelys\Desktop\c# HM\MyHM-2-main\MyHM-2-main\week03\ScriptureMemorizer\obj\Debug\net8.0\ScriptureMemorizer.dll
+C:\Users\Danelys\Desktop\c# HM\MyHM-2-main\MyHM-2-main\week03\ScriptureMemorizer\obj\Debug\net8.0\refint\ScriptureMemorizer.dll
+C:\Users\Danelys\Desktop\c# HM\MyHM-2-main\MyHM-2-main\week03\ScriptureMemorizer\obj\Debug\net8.0\ScriptureMemorizer.pdb
+C:\Users\Danelys\Desktop\c# HM\MyHM-2-main\MyHM-2-main\week03\ScriptureMemorizer\obj\Debug\net8.0\ScriptureMemorizer.genruntimeconfig.cache
+C:\Users\Danelys\Desktop\c# HM\MyHM-2-main\MyHM-2-main\week03\ScriptureMemorizer\obj\Debug\net8.0\ref\ScriptureMemorizer.dll
